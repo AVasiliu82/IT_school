@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Ana Popescu",
+        "department": "IT",
+        "role": "Python Developer",
+        "salary": 7500,
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Mihai Ionescu",
+        "department": "HR",
+        "role": "Recruiter",
+        "salary": 5200,
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Ioana Stan",
+        "department": "IT",
+        "role": "QA Engineer",
+        "salary": 6100,
+        "active": false
+    },
+    {
+        "id": 4,
+        "name": "Andrei Matei",
+        "department": "Finance",
+        "role": "Accountant",
+        "salary": 5800,
+        "active": true
+    },
+    {
+        "id": 5,
+        "name": "Elena Radu",
+        "department": "IT",
+        "role": "DevOps Engineer",
+        "salary": 8300,
+        "active": false
+    }
+]

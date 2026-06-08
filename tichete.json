@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "title": "Cannot login",
+        "priority": "high",
+        "status": "open",
+        "assigned_to": "Ana"
+    },
+    {
+        "id": 102,
+        "title": "Password reset",
+        "priority": "low",
+        "status": "closed",
+        "assigned_to": "Mihai"
+    },
+    {
+        "id": 103,
+        "title": "Application crash",
+        "priority": "high",
+        "status": "open",
+        "assigned_to": "Ioana"
+    },
+    {
+        "id": 104,
+        "title": "Slow response time",
+        "priority": "medium",
+        "status": "open",
+        "assigned_to": "Ana"
+    },
+    {
+        "id": 105,
+        "title": "Email not working",
+        "priority": "high",
+        "status": "closed",
+        "assigned_to": "Andrei"
+    }
+]
